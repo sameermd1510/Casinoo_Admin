@@ -1,2 +1,2 @@
-# Casinoo-Roulette
-Casinoo Roulette
+# Casinoo-Admin Seller App
+Casinoo Admin Seller App
