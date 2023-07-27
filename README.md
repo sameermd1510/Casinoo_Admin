@@ -1,2 +1,2 @@
-# Casinoo-Admin Seller App
-Casinoo Admin Seller App
+# Casinoo-Admin  Web Seller App
+Casinoo Admin Web App
